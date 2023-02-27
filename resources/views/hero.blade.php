@@ -33,7 +33,7 @@
             </div>
           </div>
 
-          <!-- Slide 3 aya -->
+          <!-- Slide 3 -->
           <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg)">
             <div class="carousel-container">
               <div class="carousel-content">

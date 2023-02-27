@@ -56,4 +56,4 @@
 
       </div>
     </div>
-  </section><!-- End Hero Section -->
+  </section><!-- End Hero Section 3 -->

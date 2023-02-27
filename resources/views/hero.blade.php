@@ -8,7 +8,7 @@
 
         <div class="carousel-inner" role="listbox">
 
-          <!-- Slide 1 coba-->
+          <!-- Slide 12 coba-->
           <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.jpg)">
             <div class="carousel-container">
               <div class="carousel-content">

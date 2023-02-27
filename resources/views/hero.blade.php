@@ -1,5 +1,5 @@
 @
-<!-- ======= Hero Section 21 ======= -->
+<!-- ======= Hero Section ======= -->
 <section id="hero">
     <div class="hero-container">
       <div id="heroCarousel" data-bs-interval="5000" class="carousel slide carousel-fade" data-bs-ride="carousel">
@@ -33,7 +33,7 @@
             </div>
           </div>
 
-          <!-- Slide 3 aya -->
+          <!-- Slide 3 -->
           <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg)">
             <div class="carousel-container">
               <div class="carousel-content">

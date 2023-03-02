@@ -1,12 +1,19 @@
 <!-- ======= Header ======= -->
 <header id="header" class="d-flex align-items-center">
     <div class="container d-flex justify-content-between align-items-center">
+
       <!-- <img src="assets/img/logo.png"></img> -->
       <div class="logo">
         <h1>    
             <a href="index.html">PPDB ONLINE</a>
             <p>Kota Payakumbuh</p>
         </h1>
+
+      <div class="logo">
+        <h1><a href="index.html">PPDB ONLINE</a>
+        <p>Kota Payakumbuh</p></h1>
+        
+        
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
@@ -21,8 +28,12 @@
             <ul>
               <li><a href="#">Persyaratan Pendaftaran</a></li>
               <li><a href="#">Jadwal Pendaftaran</a></li>
+
               <li><a href="#">Hasil Seleksi</a></li>
               <li><a href="#">Daftar Ulang</a></li>
+=======
+              <li><a href="#">Pengumuman Hasil Seleksi</a></li>
+              <li><a href="#">Jadwal Daftar Ulang</a></li>
             </ul>
           </li>
           <li><a href="contact.html">Contact</a></li>

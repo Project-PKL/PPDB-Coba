@@ -8,6 +8,8 @@
 </head>
 <body>
     <textarea name="coba" id="" cols="30" rows="10"></textarea>
+
     <p>Selamat Mencoba</p>
+    <form action="">coba</form>
 </body>
 </html>

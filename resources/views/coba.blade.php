@@ -8,6 +8,6 @@
 </head>
 <body>
     <textarea name="coba" id="" cols="30" rows="10"></textarea>
-    <h1> COBA 1</h1>
+    <form action="">coba</form>
 </body>
 </html>
